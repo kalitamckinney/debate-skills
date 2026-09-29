@@ -31,9 +31,9 @@ The two diagrams in `site/images/` are original work, so you can upload them to 
 | At least one worked example, with tips for each approach | Worked Example page; tip boxes for each approach on Learn and for each format on Worked Example | — |
 | Engaging, easy to navigate | Same navigation menu on every page, clear next-step links, teen-relevant topics (phones, homework, start times) | Pick a Google Sites theme with high contrast |
 | Audience appropriate | Written for grades 7–10: short sentences, key terms in bold and defined, relatable topics | Adjust grade level on Home if your audience differs |
-| Copyright | Credits page lists every image and source; diagrams are original; AI use is disclosed | Fill in the CC photo citations; add links to the Pew and UNESCO sources |
-| At least 5 photos, including one of you | Author photos on About (2, done); CC photo slots on Home and Learn (2); AI illustrations on Worked Example and Assessment | Add the 2 CC photos, plus one more real photo if your instructor doesn't count illustrations as photos |
-| 2 photos with a CC license and proper citation | Photo slots 1 and 2 on Home and Learn, with citation templates | Find the photos and fill in the citations |
+| Copyright | Credits page lists every image and source; diagrams are original; AI use is disclosed | Add links to the Pew and UNESCO sources |
+| At least 5 photos, including one of you | Author photos on About (2); CC photos on Home and Learn (2); AI illustrations on Worked Example and Assessment | Add one more real photo if your instructor doesn't count illustrations as photos |
+| 2 photos with a CC license and proper citation | "Students Debate" (Home) and "Student Graduation Speaker" (Learn), both CC BY 2.0 from Flickr, with TASL citations under each photo and on Credits | — |
 | Drive files shared with "anyone with the link" | Credits page states it; comments in the HTML mark each file | Share each file (see below) |
 | Alignment of objectives, assessment, instruction | Alignment table on Assessment page; each instruction step links to the matching Learn part | — |
 
