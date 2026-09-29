@@ -27,7 +27,7 @@ The two diagrams in `site/images/` are original work, so you can upload them to 
 | Requirement | Where it's met | Still to do by you |
 |---|---|---|
 | 2–3 approaches to present the content (representation and engagement) | Learn: every skill has **Read it**, **See and hear it**, and **Try it** sections; Home has choose-your-path cards | Record the audio walkthrough (see below) |
-| Enough detail for learners to meet the objectives | Learn: each objective has its own part with definitions, examples, and practice; Assessment links back to each part | Replace `[bracketed]` placeholders (LMS name, due date) |
+| Enough detail for learners to meet the objectives | Learn: each objective has its own part with definitions, examples, and practice; Assessment links back to each part | — |
 | At least one worked example, with tips for each approach | Worked Example page; tip boxes for each approach on Learn and for each format on Worked Example | — |
 | Engaging, easy to navigate | Same navigation menu on every page, clear next-step links, teen-relevant topics (phones, homework, start times) | Pick a Google Sites theme with high contrast |
 | Audience appropriate | Written for grades 7–10: short sentences, key terms in bold and defined, relatable topics | Adjust grade level on Home if your audience differs |
