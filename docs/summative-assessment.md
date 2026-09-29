@@ -41,10 +41,10 @@ Have a different idea? Email your teacher with a short proposal before you start
 
 | Learning objective | Where it was taught | Assessment task | Rubric criterion |
 |---|---|---|---|
-| 1. Construct a claim | Lesson 1: Resolutions and claims | Step 2 | Claim |
-| 2. Support the claim | Lesson 2: Claim–Evidence–Reasoning; Lesson 3: Evaluating sources | Steps 3–4 | Evidence and reasoning |
-| 3. Anticipate and rebut | Lesson 4: Refutation and rebuttal | Step 5 | Counterargument and rebuttal |
-| 4. Communicate the argument | Lesson 5: Organization and delivery | Step 6 | Organization and delivery |
+| 1. Construct a claim | Learn, Part 1: Write a claim | Step 2 | Claim |
+| 2. Support the claim | Learn, Part 2: Evidence and reasoning (includes judging sources) | Steps 3–4 | Evidence and reasoning |
+| 3. Anticipate and rebut | Learn, Part 3: Answer the other side | Step 5 | Counterargument and rebuttal |
+| 4. Communicate the argument | Learn, Part 4: Present your argument | Step 6 | Organization and delivery |
 
 ## Rubric (20 points)
 

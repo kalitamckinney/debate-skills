@@ -4,129 +4,78 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Debate Skills: Make Your Case</title>
-  <style>
-    /* All text/background pairs meet WCAG 2.2 AA contrast (4.5:1 or higher). */
-    :root {
-      --bg: #ffffff;
-      --text: #1a1a1a;        /* 17.4:1 on --bg */
-      --muted: #4a4a4a;       /* 8.9:1 on --bg */
-      --accent: #0b4f8a;      /* 8.4:1 on --bg */
-      --surface: #f2f5f9;
-      --border: #6b7280;
-    }
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bg: #121417;
-        --text: #f1f1f1;      /* 16.5:1 on --bg */
-        --muted: #c7c7c7;     /* 11:1 on --bg */
-        --accent: #8cc4ff;    /* 10:1 on --bg */
-        --surface: #1d2127;
-        --border: #9ca3af;
-      }
-    }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      background: var(--bg);
-      color: var(--text);
-      font: 1.0625rem/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-    }
-    main { max-width: 48rem; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
-    h1, h2, h3 { line-height: 1.25; }
-    a { color: var(--accent); text-underline-offset: 0.15em; }
-    a:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
-    .skip { position: absolute; left: -999px; }
-    .skip:focus { left: 1rem; top: 1rem; background: var(--bg); padding: 0.5rem; }
-    .table-wrap { overflow-x: auto; }
-    table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
-    th, td { border: 1px solid var(--border); padding: 0.5rem; text-align: left; vertical-align: top; }
-    th { background: var(--surface); }
-    figure { margin: 1.5rem 0; }
-    figcaption, .note { color: var(--muted); font-size: 0.95rem; }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <a class="skip" href="#main">Skip to main content</a>
-  <main id="main">
-    <!-- One H1 per page; H2 for sections, H3 for sub-sections, no skipped levels. -->
-    <h1>Summative Assessment: Make Your Case</h1>
-
-    <p>This assessment measures whether you can build, support, and defend an argument on a debatable topic.</p>
-
-    <h2>Learning objectives</h2>
-    <ol>
-      <li>Construct a claim that takes a clear position on a debatable resolution.</li>
-      <li>Support the claim with reasoning and credible evidence.</li>
-      <li>Anticipate and rebut at least one counterargument.</li>
-      <li>Communicate the argument in an organized way for a specific audience.</li>
-    </ol>
-
-    <h2>Watch: what a strong case looks like</h2>
-    <figure>
-      <!-- Replace src with the course video. Captions track is required; transcript link is required. -->
-      <video controls preload="metadata" width="100%">
-        <source src="media/sample-speech.mp4" type="video/mp4">
-        <track kind="captions" src="media/sample-speech.en.vtt" srclang="en" label="English" default>
-      </video>
-      <figcaption>
-        A student delivers a 4-minute constructive speech for a later school start time.
-        <a href="media/sample-speech-transcript.html">Read the sample speech transcript</a>
-      </figcaption>
-    </figure>
-
-    <h2>Choose how you show your understanding</h2>
-    <p>Pick one format. Every format is graded with the same rubric.</p>
-    <div class="table-wrap">
-      <table>
-        <caption class="note">Assessment format options and requirements</caption>
-        <thead>
-          <tr><th scope="col">Format</th><th scope="col">What you create</th><th scope="col">Requirements</th></tr>
-        </thead>
-        <tbody>
-          <tr><th scope="row">A. Recorded speech</th><td>A video or audio recording of a constructive speech</td><td>3–5 minutes, with captions or a transcript</td></tr>
-          <tr><th scope="row">B. Written case</th><td>A written argument (essay or debate brief)</td><td>600–900 words</td></tr>
-          <tr><th scope="row">C. Visual argument</th><td>An annotated slide deck, infographic, or argument map</td><td>6–10 slides or one detailed map, with a written explanation for every part</td></tr>
-          <tr><th scope="row">D. Live debate</th><td>A short one-on-one debate with a classmate or the teacher</td><td>3-minute constructive and 2-minute rebuttal</td></tr>
-        </tbody>
-      </table>
+  <header class="site">
+    <div class="inner">
+      <a class="brand" href="index.html">Make Your Case: Debate Skills</a>
+      <nav aria-label="Main">
+        <ul>
+          <li><a href="index.html" aria-current="page">Home</a></li>
+          <li><a href="learn.html">Learn</a></li>
+          <li><a href="example.html">Worked Example</a></li>
+          <li><a href="assessment.html">Assessment</a></li>
+          <li><a href="about.html">About the Author</a></li>
+          <li><a href="credits.html">Credits</a></li>
+        </ul>
+      </nav>
     </div>
-    <p>Have a different idea? Email your teacher a short proposal before you start.</p>
+  </header>
 
-    <h2>Instructions</h2>
+  <main id="main">
+    <h1>Make Your Case: Win an Argument With Evidence</h1>
+    <p class="lead">Have you ever lost an argument you <em>knew</em> you were right about? This lesson shows you how to build an argument that's hard to beat, whether you're in a debate round, writing an essay, or asking for a later curfew.</p>
+
+    <figure class="photo-slot">
+      <p><strong>Photo 1 (Creative Commons):</strong> students debating or speaking at a podium.</p>
+      <p>Draft alt text: "Two students stand at podiums facing each other during a school debate while classmates watch."</p>
+      <p>Caption with citation: "<em>[Title]</em>" by [Creator] is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. <!-- Link title to source page, creator to profile, license to deed. --></p>
+    </figure>
+
+    <h2>Who this lesson is for</h2>
+    <p>Middle and high school students (grades 7–10) who are new to debate. You don't need any experience. The whole lesson takes about 2–3 class periods.</p>
+
+    <h2>What you will be able to do</h2>
+    <p>By the end of this lesson, you will be able to:</p>
     <ol>
-      <li>Choose a resolution from the class list, or propose your own.</li>
-      <li>Choose your side and write a one-sentence claim.</li>
-      <li>Find at least two credible sources and note why each is credible.</li>
-      <li>Build at least two supporting points using Claim–Evidence–Reasoning.</li>
-      <li>Identify the strongest counterargument and write a rebuttal.</li>
-      <li>Create your final product in the format you chose.</li>
-      <li>Check your work with the self-check checklist.</li>
-      <li>Submit your work and source list in the learning management system by the due date.</li>
+      <li><strong>Write a claim</strong> that takes a clear side on a debatable question.</li>
+      <li><strong>Support your claim</strong> with evidence and reasoning (Claim–Evidence–Reasoning).</li>
+      <li><strong>Answer the other side</strong> by rebutting at least one counterargument.</li>
+      <li><strong>Present your argument</strong> in a clear, organized way.</li>
     </ol>
 
-    <h2>How you will be graded</h2>
-    <!-- Descriptive link text: names the document and file type, not "click here". -->
-    <ul>
-      <li><a href="rubric.pdf">Download the Make Your Case rubric (PDF)</a></li>
-      <li><a href="work-sample.pdf">View the annotated work sample of a written case (PDF)</a></li>
-      <li><a href="self-check.pdf">Download the self-check checklist (PDF)</a></li>
+    <h2>How to use this site</h2>
+    <ol>
+      <li>Go to <a href="learn.html">Learn the skills</a>. For each part, choose the way that works best for you: <strong>read it</strong>, <strong>see and hear it</strong>, or <strong>try it</strong>. You can mix and match.</li>
+      <li>Follow along with the <a href="example.html">worked example on phones in school</a> to see every step done for you.</li>
+      <li>Show what you learned in the <a href="assessment.html">Make Your Case assessment</a>. You choose the format: speech, writing, visual, or live debate.</li>
+    </ol>
+
+    <h2>Choose your path</h2>
+    <ul class="cards">
+      <li class="card">
+        <h3>📖 Read it</h3>
+        <p>Short, step-by-step explanations with key words highlighted. Best if you like to go at your own pace and re-read.</p>
+      </li>
+      <li class="card">
+        <h3>🎧 See and hear it</h3>
+        <p>Diagrams plus an audio walkthrough with a full transcript. Best if you learn from pictures or listening.</p>
+      </li>
+      <li class="card">
+        <h3>✋ Try it</h3>
+        <p>Practice sorting, spotting, and building arguments, with answers you can check. Best if you learn by doing.</p>
+      </li>
     </ul>
 
-    <h3>Rubric criteria (5 points each, 20 total)</h3>
-    <ul>
-      <li><strong>Claim:</strong> clear, specific position on the resolution.</li>
-      <li><strong>Evidence and reasoning:</strong> credible, cited sources, with reasoning that connects them to the claim.</li>
-      <li><strong>Counterargument and rebuttal:</strong> the strongest opposing point, stated fairly and answered.</li>
-      <li><strong>Organization and delivery:</strong> logical structure that fits the format and audience.</li>
-    </ul>
-
-    <figure>
-      <!-- Informative image: alt text states content and purpose. -->
-      <img src="media/cer-diagram.png" width="720" height="300"
-           alt="Claim–Evidence–Reasoning diagram: the claim at the top is supported by evidence, and reasoning is the bridge explaining how the evidence proves the claim."
-           style="max-width:100%; height:auto;">
-      <figcaption>The Claim–Evidence–Reasoning structure used in every supporting point.</figcaption>
-    </figure>
+    <p><a href="learn.html">Start the lesson: Learn the skills</a></p>
   </main>
+
+  <footer class="site">
+    <div class="inner">
+      <p>Text and diagrams © 2026 [Your Name]. Photo credits and licenses are listed on the <a href="credits.html">Credits and copyright page</a>.</p>
+    </div>
+  </footer>
 </body>
 </html>
