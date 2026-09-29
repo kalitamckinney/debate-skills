@@ -11,3 +11,11 @@ Course materials for a debate skills lesson, built around two sets of design gui
 ## Draft site pages
 
 `site/index.html` (Home), `site/learn.html` (Learn: three approaches per skill), `site/example.html` (Worked Example), `site/assessment.html`, `site/about.html`, `site/credits.html`, plus `site/transcript.html` and `site/worksheet.html`.
+
+## Publishing to Google Sites
+
+`google-sites/` holds paste-ready embed code for each page (styles and images packed in), and `google-sites/embed-kit.html` is a page with a Copy button for each section. Rebuild them after editing `site/`:
+
+```
+python3 tools/build_embeds.py && python3 tools/build_embed_kit.py
+```

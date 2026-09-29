@@ -1,0 +1,146 @@
+[
+ {
+  "name": "Home",
+  "slug": "home",
+  "part": 1,
+  "parts": 1,
+  "file": "home.html",
+  "kb": 73,
+  "height": 1850
+ },
+ {
+  "name": "Learn",
+  "slug": "learn",
+  "part": 1,
+  "parts": 5,
+  "file": "learn-1.html",
+  "kb": 3,
+  "height": 850
+ },
+ {
+  "name": "Learn",
+  "slug": "learn",
+  "part": 2,
+  "parts": 5,
+  "file": "learn-2.html",
+  "kb": 4,
+  "height": 1300
+ },
+ {
+  "name": "Learn",
+  "slug": "learn",
+  "part": 3,
+  "parts": 5,
+  "file": "learn-3.html",
+  "kb": 7,
+  "height": 1550
+ },
+ {
+  "name": "Learn",
+  "slug": "learn",
+  "part": 4,
+  "parts": 5,
+  "file": "learn-4.html",
+  "kb": 5,
+  "height": 1150
+ },
+ {
+  "name": "Learn",
+  "slug": "learn",
+  "part": 5,
+  "parts": 5,
+  "file": "learn-5.html",
+  "kb": 87,
+  "height": 1700
+ },
+ {
+  "name": "Worked Example",
+  "slug": "worked-example",
+  "part": 1,
+  "parts": 3,
+  "file": "worked-example-1.html",
+  "kb": 12,
+  "height": 1400
+ },
+ {
+  "name": "Worked Example",
+  "slug": "worked-example",
+  "part": 2,
+  "parts": 3,
+  "file": "worked-example-2.html",
+  "kb": 5,
+  "height": 1050
+ },
+ {
+  "name": "Worked Example",
+  "slug": "worked-example",
+  "part": 3,
+  "parts": 3,
+  "file": "worked-example-3.html",
+  "kb": 5,
+  "height": 1700
+ },
+ {
+  "name": "Assessment",
+  "slug": "assessment",
+  "part": 1,
+  "parts": 3,
+  "file": "assessment-1.html",
+  "kb": 10,
+  "height": 1450
+ },
+ {
+  "name": "Assessment",
+  "slug": "assessment",
+  "part": 2,
+  "parts": 3,
+  "file": "assessment-2.html",
+  "kb": 4,
+  "height": 1100
+ },
+ {
+  "name": "Assessment",
+  "slug": "assessment",
+  "part": 3,
+  "parts": 3,
+  "file": "assessment-3.html",
+  "kb": 4,
+  "height": 1100
+ },
+ {
+  "name": "About the Author",
+  "slug": "about-the-author",
+  "part": 1,
+  "parts": 1,
+  "file": "about-the-author.html",
+  "kb": 145,
+  "height": 1800
+ },
+ {
+  "name": "Credits",
+  "slug": "credits",
+  "part": 1,
+  "parts": 1,
+  "file": "credits.html",
+  "kb": 5,
+  "height": 1400
+ },
+ {
+  "name": "Audio Transcript",
+  "slug": "audio-transcript",
+  "part": 1,
+  "parts": 1,
+  "file": "audio-transcript.html",
+  "kb": 5,
+  "height": 1900
+ },
+ {
+  "name": "CER Worksheet",
+  "slug": "cer-worksheet",
+  "part": 1,
+  "parts": 1,
+  "file": "cer-worksheet.html",
+  "kb": 3,
+  "height": 1750
+ }
+]
