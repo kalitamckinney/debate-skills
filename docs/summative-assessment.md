@@ -35,7 +35,7 @@ Have a different idea? Email your teacher with a short proposal before you start
 5. **Identify the strongest counterargument** to your claim and write a rebuttal to it.
 6. **Create your final product** in the format you chose, following the requirements in the table above.
 7. **Check your work** with the self-check checklist below.
-8. **Submit** your work (and a list of your sources) to your teacher by October 10, 2026.
+8. **Submit** your work (and a list of your sources) in Canvas by October 10, 2026.
 
 ## Alignment
 
