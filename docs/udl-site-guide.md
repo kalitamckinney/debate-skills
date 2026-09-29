@@ -32,7 +32,7 @@ The two diagrams in `site/images/` are original work, so you can upload them to 
 | Engaging, easy to navigate | Same navigation menu on every page, clear next-step links, teen-relevant topics (phones, homework, start times) | Pick a Google Sites theme with high contrast |
 | Audience appropriate | Written for grades 7–10: short sentences, key terms in bold and defined, relatable topics | Adjust grade level on Home if your audience differs |
 | Copyright | Credits page lists every image and source; diagrams are original; AI use is disclosed | Fill in the CC photo citations; add links to the Pew and UNESCO sources |
-| At least 5 photos, including one of you | Five photo slots: Home (1), Learn (2), Worked Example (3), About (4 = you, 5) | Add the photos |
+| At least 5 photos, including one of you | Author photos on About (2, done); CC photo slots on Home and Learn (2); AI illustrations on Worked Example and Assessment | Add the 2 CC photos, plus one more real photo if your instructor doesn't count illustrations as photos |
 | 2 photos with a CC license and proper citation | Photo slots 1 and 2 on Home and Learn, with citation templates | Find the photos and fill in the citations |
 | Drive files shared with "anyone with the link" | Credits page states it; comments in the HTML mark each file | Share each file (see below) |
 | Alignment of objectives, assessment, instruction | Alignment table on Assessment page; each instruction step links to the matching Learn part | — |
@@ -59,7 +59,7 @@ The two diagrams in `site/images/` are original work, so you can upload them to 
 
 ## Step 3: Add your other three photos
 
-- **Photo 3** (Worked Example): your own photo, or an AI-generated image (the assignment allows AI for UDL). Credit it either way.
+- **Illustrations** (Worked Example, Assessment): `phone-caddy.png` and `debate-scene.png` in `site/images/`, created with AI and credited on the Credits page.
 - **Photo 4** (About the Author): a picture of you. If someone else took it, credit them ("used with permission").
 - **Photo 5** (About the Author): your own photo connected to your story.
 
